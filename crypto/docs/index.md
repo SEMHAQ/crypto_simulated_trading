@@ -9,8 +9,8 @@
 ## 📋 交易记录导航
 
 ### 📅 **第1-10天 (3月20-29日)**
-- [Day 1](record/day1.md) - 已记录 ✅
-- [Day 2](record/day2.md) - 待记录
+- [Day 1](record/day1.md) - 已记录 ✅ **86,456.24 USDT**
+- [Day 2](record/day2.md) - 已记录 ✅ **86,405.01 USD** <span style="color:red">-51.23 (-0.06%)</span>
 - [Day 3](record/day3.md) - 待记录
 - [Day 4](record/day4.md) - 待记录
 - [Day 5](record/day5.md) - 待记录
