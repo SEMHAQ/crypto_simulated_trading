@@ -19,7 +19,8 @@
       "Bash(copy inDEX.md index.md)",
       "Bash(move inDEX.md index.md)",
       "Bash(python -c \"import os; os.rename\\(''inDEX.md'', ''index.md''\\)\")",
-      "Bash(python -c \"import os; os.rename\\('inDEX.md', 'index.md'\\)\")"
+      "Bash(python -c \"import os; os.rename\\('inDEX.md', 'index.md'\\)\")",
+      "Bash(python -m mkdocs gh-deploy)"
     ]
   }
 }
