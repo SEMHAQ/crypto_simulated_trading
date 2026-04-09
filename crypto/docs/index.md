@@ -28,7 +28,7 @@
 - [Day 15](record/day15.md) - 已记录 ✅ **84,458.19 USD** <span style="color:green">+618.86 (+0.74%)</span>
 - [Day 16](record/day16.md) - 已记录 ✅ **84,756.32 USD** <span style="color:green">+298.13 (+0.35%)</span>
 - [Day 19](record/day19.md) - 已记录 ✅ **85,883.09 USD** <span style="color:red">-395.81 (-0.46%)</span>
-- [Day 20](record/day20.md) - 待记录
+- [Day 20](record/day20.md) - 已记录 ✅ **88,407.01 USD** <span style="color:green">+2,523.92 (+2.94%)</span>
 
 ### 📅 **第21-30天 (4月8-17日)**
 - [Day 21](record/day21.md) - 待记录

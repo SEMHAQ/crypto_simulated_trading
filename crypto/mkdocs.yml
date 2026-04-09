@@ -1,16 +1,5 @@
 theme:
-  name: material
-  features:
-    - navigation.tabs
-    - navigation.sections
-    - toc.integrate
-  palette:
-    - scheme: default
-      primary: indigo
-      accent: purple
-  icon:
-    logo: material/currency-btc
-    favicon: assets/images/favicon.svg
+  name: mkdocs
 
 site_name: 虚拟货币模拟盘交易记录
 site_description: 个人虚拟货币模拟盘交易记录和分析
