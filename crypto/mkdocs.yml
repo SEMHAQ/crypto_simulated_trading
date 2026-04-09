@@ -1,5 +1,5 @@
 theme:
-  name: mkdocs
+  name: material
 
 site_name: 虚拟货币模拟盘交易记录
 site_description: 个人虚拟货币模拟盘交易记录和分析
