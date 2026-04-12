@@ -34,7 +34,7 @@
 - [Day 21](record/day21.md) - 已记录 ✅ **88,809.16 USD** <span style="color:green">+402.15 (+0.45%)</span>
 - [Day 22](record/day22.md) - 已记录 ✅ **89,681.42 USD** <span style="color:green">+872.26 (+0.98%)</span>
 - [Day 23](record/day23.md) - 已记录 ✅ **90,641.54 USD** <span style="color:green">+960.12 (+1.07%)</span> 🏆
-- [Day 24](record/day24.md) - 待记录
+- [Day 24](record/day24.md) - 已记录 ✅ **89,344.49 USD** <span style="color:red">-1,297.05 (-1.43%)</span>
 - [Day 25](record/day25.md) - 待记录
 - [Day 26](record/day26.md) - 待记录
 - [Day 27](record/day27.md) - 待记录
