@@ -33,9 +33,10 @@
 ### 📅 **第21-30天 (4月8-17日)**
 - [Day 21](record/day21.md) - 已记录 ✅ **88,809.16 USD** <span style="color:green">+402.15 (+0.45%)</span>
 - [Day 22](record/day22.md) - 已记录 ✅ **89,681.42 USD** <span style="color:green">+872.26 (+0.98%)</span>
-- [Day 23](record/day23.md) - 已记录 ✅ **90,641.54 USD** <span style="color:green">+960.12 (+1.07%)</span> 🏆
+- [Day 23](record/day23.md) - 已记录 ✅ **90,641.54 USD** <span style="color:green">+960.12 (+1.07%)</span>
 - [Day 24](record/day24.md) - 已记录 ✅ **89,344.49 USD** <span style="color:red">-1,297.05 (-1.43%)</span>
 - [Day 25](record/day25.md) - 已记录 ✅ **88,280.81 USD** <span style="color:red">-1,063.68 (-1.19%)</span>
+- [Day 26](record/day26.md) - 已记录 ✅ **91,244.75 USD** <span style="color:green">+2,963.94 (+3.36%)</span> 🏆
 - [Day 26](record/day26.md) - 待记录
 - [Day 27](record/day27.md) - 待记录
 - [Day 28](record/day28.md) - 待记录
@@ -129,9 +130,9 @@
 ---
 
 ## 📊 进度统计
-- **已完成**: 19/100 天 (19%)
-- **进行中**: Day 20
-- **待完成**: 80 天
+- **已完成**: 26/100 天 (26%)
+- **进行中**: Day 27
+- **待完成**: 74 天
 
 ---
 
