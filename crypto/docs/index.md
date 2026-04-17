@@ -41,6 +41,8 @@
 - [Day 28](record/day28.md) - 已记录 ✅ **90,929.16 USD** <span style="color:red">-272.35 (-0.30%)</span>
 - [Day 29](record/day29.md) - 待记录
 - [Day 30](record/day30.md) - 待记录
+- [Day 29](record/day29.md) - 待记录
+- [Day 30](record/day30.md) - 待记录
 
 ### 📅 **第31-40天 (4月18-27日)**
 - [Day 31](record/day31.md) - 待记录
