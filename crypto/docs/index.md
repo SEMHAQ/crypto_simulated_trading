@@ -44,7 +44,7 @@
 
 ### 📅 **第31-40天 (4月18-27日)**
 - [Day 31](record/day31.md) - 已记录 ✅ **83,670.06 USD** <span style="color:red">-4,789.95 (-5.41%)</span>
-- [Day 32](record/day32.md) - 待记录
+- [Day 32](record/day32.md) - 已记录 ✅ **87,607.27 USD** <span style="color:green">+3,937.21 (+4.71%)</span>
 - [Day 33](record/day33.md) - 待记录
 - [Day 34](record/day34.md) - 待记录
 - [Day 35](record/day35.md) - 待记录
