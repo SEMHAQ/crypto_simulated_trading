@@ -57,7 +57,7 @@
 ### 📅 **第41-50天 (4月28日-5月7日)**
 - [Day 41](record/day41.md) - 已记录 ✅ **72,819.68 USD** <span style="color:green">+2,360.71 (+3.35%)</span>
 - [Day 42](record/day42.md) - 已记录 ✅ **69,090.85 USD** <span style="color:red">-3,728.83 (-5.12%)</span>
-- [Day 43](record/day43.md) - 待记录
+- [Day 43](record/day43.md) - 已记录 ✅ **74,768.70 USD** <span style="color:green">+5,677.85 (+8.22%)</span>
 - [Day 44](record/day44.md) - 待记录
 - [Day 45](record/day45.md) - 待记录
 - [Day 46](record/day46.md) - 待记录
@@ -129,9 +129,9 @@
 ---
 
 ## 📊 进度统计
-- **已完成**: 42/100 天 (42%)
-- **进行中**: Day 43
-- **待完成**: 58 天
+- **已完成**: 43/100 天 (43%)
+- **进行中**: Day 44
+- **待完成**: 57 天
 
 ---
 
