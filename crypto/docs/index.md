@@ -63,7 +63,7 @@
 - [Day 46](record/day46.md) - 已记录 ✅ **68,043.44 USD** <span style="color:red">-1,555.31 (-2.23%)</span>
 - [Day 47](record/day47.md) - 已记录 ✅ **59,329.55 USD** <span style="color:red">-8,713.89 (-12.81%)</span>
 - [Day 48](record/day48.md) - 已记录 ✅ **53,121.42 USD** <span style="color:red">-6,208.13 (-10.46%)</span>
-- [Day 49](record/day49.md) - 待记录
+- [Day 49](record/day49.md) - 已记录 ✅ **45,386.66 USD** <span style="color:red">-7,734.76 (-14.56%)</span>
 - [Day 50](record/day50.md) - 待记录
 
 ### 📅 **第51-60天 (5月8-17日)**
@@ -129,9 +129,9 @@
 ---
 
 ## 📊 进度统计
-- **已完成**: 48/100 天 (48%)
-- **进行中**: Day 49
-- **待完成**: 52 天
+- **已完成**: 49/100 天 (49%)
+- **进行中**: Day 50
+- **待完成**: 51 天
 
 ---
 
