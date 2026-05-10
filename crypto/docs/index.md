@@ -69,7 +69,7 @@
 ### 📅 **第51-60天 (5月8-17日)**
 - [Day 51](record/day51.md) - 已记录 ✅ **52,965.95 USD** <span style="color:green">+3,891.07 (+7.93%)</span>
 - [Day 52](record/day52.md) - 已记录 ✅ **50,906.32 USD** <span style="color:red">-2,059.63 (-3.89%)</span>
-- [Day 53](record/day53.md) - 待记录
+- [Day 53](record/day53.md) - 已记录 ✅ **49,620.66 USD** <span style="color:red">-1,285.66 (-2.53%)</span>
 - [Day 54](record/day54.md) - 待记录
 - [Day 55](record/day55.md) - 待记录
 - [Day 56](record/day56.md) - 待记录
@@ -129,9 +129,9 @@
 ---
 
 ## 📊 进度统计
-- **已完成**: 52/100 天 (52%)
-- **进行中**: Day 53
-- **待完成**: 48 天
+- **已完成**: 53/100 天 (53%)
+- **进行中**: Day 54
+- **待完成**: 47 天
 
 ---
 
