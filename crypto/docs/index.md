@@ -81,7 +81,7 @@
 ### 📅 **第61-70天 (5月18-27日)**
 - [Day 61](record/day61.md) - 已记录 ✅ **63,475.63 USD** <span style="color:green">+5,557.00 (+9.59%)</span>
 - [Day 62](record/day62.md) - 已记录 ✅ **62,775.40 USD** <span style="color:red">-700.23 (-1.10%)</span>
-- [Day 63](record/day63.md) - 待记录
+- [Day 63](record/day63.md) - 已记录 ✅ **60,818.72 USD** <span style="color:red">-1,956.68 (-3.12%)</span>
 - [Day 64](record/day64.md) - 待记录
 - [Day 65](record/day65.md) - 待记录
 - [Day 66](record/day66.md) - 待记录
@@ -129,9 +129,9 @@
 ---
 
 ## 📊 进度统计
-- **已完成**: 62/100 天 (62%)
-- **进行中**: Day 63
-- **待完成**: 38 天
+- **已完成**: 63/100 天 (63%)
+- **进行中**: Day 64
+- **待完成**: 37 天
 
 ---
 
