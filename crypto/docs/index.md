@@ -87,7 +87,7 @@
 - [Day 66](record/day66.md) - 已记录 ✅ **66,440.76 USD** <span style="color:green">+4,380.39 (+7.06%)</span>
 - [Day 67](record/day67.md) - 待记录
 - [Day 68](record/day68.md) - 已记录 ✅ **66,438.89 USD** <span style="color:gray">-1.87 (≈0%)</span>
-- [Day 69](record/day69.md) - 已记录 ✅ **67,563.00 USD** <span style="color:green">+1,124.11 (+1.69%)</span>
+- [Day 69](record/day69.md) - 已记录 ✅ **67,721.29 USD** <span style="color:green">+1,282.40 (+1.93%)</span>
 - [Day 70](record/day70.md) - 待记录
 
 ### 📅 **第71-80天 (5月28日-6月6日)**
