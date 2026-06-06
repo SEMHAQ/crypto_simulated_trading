@@ -102,7 +102,7 @@
 - [Day 77](record/day77.md) - 已记录 ✅ **67,353.40 USD** <span style="color:red">-305.82 (-0.45%)</span>
 - [Day 78](record/day78.md) - 已记录 ✅ **67,316.07 USD** <span style="color:red">-37.33 (-0.06%)</span>
 - [Day 79](record/day79.md) - 已记录 ✅ **67,193.94 USD** <span style="color:red">-122.13 (-0.18%)</span>
-- [Day 80](record/day80.md) - 待记录
+- [Day 80](record/day80.md) - 已记录 ✅ **67,133.95 USD** <span style="color:red">-60.00 (-0.09%)</span>
 
 ### 📅 **第81-90天 (6月7-16日)**
 - [Day 81](record/day81.md) - 待记录
@@ -131,9 +131,9 @@
 ---
 
 ## 📊 进度统计
-- **已完成**: 79/100 天 (79%)
-- **进行中**: Day 80
-- **待完成**: 21 天
+- **已完成**: 80/100 天 (80%)
+- **进行中**: Day 81
+- **待完成**: 20 天
 
 ---
 
