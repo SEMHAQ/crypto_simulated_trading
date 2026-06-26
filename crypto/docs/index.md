@@ -125,15 +125,15 @@
 - [Day 96](record/day96.md) - 已记录 ✅ **67,211.52 USD** <span style="color:red">-142.26 (-0.21%)</span>
 - [Day 97](record/day97.md) - 已记录 ✅ **67,204.79 USD** <span style="color:red">-6.73 (≈0%)</span>
 - [Day 98](record/day98.md) - 已记录 ✅ **67,146.72 USD** <span style="color:red">-58.07 (-0.09%)</span>
-- [Day 99](record/day99.md) - 待记录
+- [Day 99](record/day99.md) - 已记录 ✅ **67,105.14 USD** <span style="color:red">-41.58 (-0.06%)</span>
 - [Day 100](record/day100.md) - 待记录
 
 ---
 
 ## 📊 进度统计
-- **已完成**: 98/100 天 (98%)
-- **进行中**: Day 99
-- **待完成**: 2 天
+- **已完成**: 99/100 天 (99%)
+- **进行中**: Day 100
+- **待完成**: 1 天
 
 ---
 
